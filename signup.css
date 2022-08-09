@@ -1,0 +1,28 @@
+.body{
+background-color: black;
+  }
+  .container{
+/*background-color: grey;
+box-shadow: box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);*/
+width: 650px;
+height: 300px;
+border: 2px solid black;
+display: block;
+margin: 350px auto;
+}
+.conatiner h1{
+  text-align: center;
+
+
+}
+.form-group{
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+.form-group input{
+  text-align: center;
+  display: block;
+  width: 500px;
+  font-size: 25px;
+}
